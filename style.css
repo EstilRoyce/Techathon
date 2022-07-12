@@ -1,0 +1,99 @@
+body{
+   
+
+    padding: 60px;
+    width:100%
+}
+hr{
+    width:50%
+}
+section{
+   
+    justify-content: center;
+}
+h3{
+    font-size: small;
+position:relative;
+right:30px;
+bottom:35px;
+
+
+
+}
+h4{
+    font-size: small;
+    position: relative;
+    bottom: 15px;
+}
+
+P{
+    line-height:5px;
+    font-size: small;
+}
+a{
+  
+   position:relative;
+   left:80px;
+bottom: 70px;
+}
+
+  
+.box1{
+background-image: url("images/pattern-background-desktop.svg");
+background-repeat: no-repeat;
+   padding-top:50px;
+   padding-bottom: 20px;
+   margin:180px;
+   display:flex;
+ position: relative;
+ left:90px;
+
+  
+}
+.box2{
+    /* display: centre; */
+    height:580px ;
+    width: 35%;
+    background-color:rgb(255, 251, 251);
+    margin: 50px;
+    border-radius: 20px;
+box-shadow: 1px 1px 1px 1px rgb(151, 148, 148);
+position: relative;
+left:25%;
+   
+  }
+
+.hero{ 
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px ;
+    width:100%
+}
+.annual{
+    text-align: center;
+  height: 85px;
+    width: 80%;
+    background-color:hsl(240, 8%, 95%);
+    border-radius: 20px;
+    margin-top: 10%;
+ 
+}
+
+.music{
+    height: 40px;
+    width:40px;
+    position:relative;
+    right: 100px;
+   top:20px;
+
+}
+.payment{
+    height:5%;
+    width: 80%;
+    background-color:hsl(245, 75%, 52%);
+    border-radius: 10px;
+    margin-top: 10%; 
+    padding-top: 10px;
+   color:hsl(225, 100%, 98%);
+   box-shadow: 1px 1px 1px 1px rgb(151, 148, 148);
+  
+}
